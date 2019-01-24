@@ -53,3 +53,19 @@
 #To loop through a set of code a specified number of times, we can use the range() function,even we can use range(2,6) here increament will be dafaultone that is one,range(2,9,3) here increament will be 3...
 #for x in range(6):
  #print(x)
+ #print(x)
+#fname=["sunil","hanifa"]
+#lname=["kumar","khan"] 
+#for x in fname:
+ #for y in lname:
+  #print(x,y) for nested loop
+#def funct1():
+ #x=input("ur first name")  
+ #y= input("ur last name ")
+ #printname(x,y)  
+#funct1() 
+#x=20
+#def funct2(i):
+ #print(i)
+ ###funct2(i*2)
+#funct2(2) 
