@@ -1,0 +1,55 @@
+#print("welcome to the world of python")
+#if 2 > 2:
+ #print("its grtr")
+#elif 2 < 2:
+   #print(" its smaller ")
+#else: 
+   #print("equal")
+#def Main():
+   #print(sum(12,13))  
+
+#def sum(x,y):
+    #d=x+y
+    #return d 
+#Main()	
+#x=int("3")   
+#print(x)
+#a="hello world"
+#print(a[1])
+#print(a[2:5])
+#print(a.lower())
+#print(a.upper())
+#print(a.replace("h","j"))#split is used for removing space from starting ang ending of string.len for length,input() for taking input from keyboard.
+#thislist=["apple","banana","mango"]
+#print(thislist)
+#print(thislist[1])
+#thislist[1]="tomato"
+#print(thislist)
+#for x in thislist:
+ #print(x)# if "apple" in thislist: print(),print(len[thisist]),thislist.insert(1,"kela"),thislist.remove("banana"),thislist.pop(),del thislist[0],thislist.clear() wil clear all the list value,,,,
+#in tuple everithing will be same just no chznges can bedomne in the value,four collection data types in the Python programming language:List is a collection which is ordered and changeable. Allows duplicate members.
+#Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+#Set is a collection which is unordered and unindexed. No duplicate members.
+#Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+#n Python tuples are written with round brackets.list in the sql]r bracket,In Python sets are written with curly brackets.In Python dictionaries are written with curly brackets, and they have keys and values.
+#thisdisc={
+#"fname":"sunil",
+#"lname":"kumar",
+#"dob":1996
+#}
+#print(thisdisc)
+##x=thisdisc["fname"]#even thisdisc.get("fname")
+#print(x)
+#The elif keyword is pythons way of saying "if the previous conditions were not true, then try this condition".
+#print("A") if 2 > 3 else print("B") even this is the method for executing if ..else if 2<3 and 3<4 : print...this way and or can be used.
+#a=1
+#while a<8:
+ #print(a)
+ #if a==7:
+  #break means come out of the main loop but in case of continue it will stop the curent iteration and start with the new iteration.
+ #a+=1 
+#for x in "banana":
+ #print(x)
+#To loop through a set of code a specified number of times, we can use the range() function,even we can use range(2,6) here increament will be dafaultone that is one,range(2,9,3) here increament will be 3...
+#for x in range(6):
+ #print(x)
